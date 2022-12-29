@@ -1,0 +1,541 @@
+﻿cbID,cbType,cbCores,cbCSA (mm),cbDiameter,cbWeight (kg/m),cbArrangement
+cb000,Cu/XLPE/LSZH/AWA/LSZH,1c,50,17.5,0.8,Single
+cb001,Cu/XLPE/LSZH/AWA/LSZH,1c,70,20.2,0.96,Single
+cb002,Cu/XLPE/LSZH/AWA/LSZH,1c,95,22.3,1.24,Single
+cb003,Cu/XLPE/LSZH/AWA/LSZH,1c,120,24.2,1.51,Single
+cb004,Cu/XLPE/LSZH/AWA/LSZH,1c,150,27.4,1.9,Single
+cb005,Cu/XLPE/LSZH/AWA/LSZH,1c,185,30,2.32,Single
+cb006,Cu/XLPE/LSZH/AWA/LSZH,1c,240,32.8,2.93,Single
+cb007,Cu/XLPE/LSZH/AWA/LSZH,1c,300,35.6,3.58,Single
+cb008,Cu/XLPE/LSZH/AWA/LSZH,1c,400,40.5,4.6,Single
+cb009,Cu/XLPE/LSZH/AWA/LSZH,1c,500,44.2,5.77,Single
+cb010,Cu/XLPE/LSZH/AWA/LSZH,1c,630,48.8,7.25,Single
+cb011,Cu/XLPE/LSZH/AWA/LSZH,1c,800,55.4,9.381,Single
+cb012,Cu/XLPE/LSZH/AWA/LSZH,1c,1000,60.6,11.54,Single
+cb013,Cu/XLPE/LSZH/AWA/LSZH,1c,50,17.5,0.8,Quadcleat
+cb014,Cu/XLPE/LSZH/AWA/LSZH,1c,70,20.2,0.96,Quadcleat
+cb015,Cu/XLPE/LSZH/AWA/LSZH,1c,95,22.3,1.24,Quadcleat
+cb016,Cu/XLPE/LSZH/AWA/LSZH,1c,120,24.2,1.51,Quadcleat
+cb017,Cu/XLPE/LSZH/AWA/LSZH,1c,150,27.4,1.9,Quadcleat
+cb018,Cu/XLPE/LSZH/AWA/LSZH,1c,185,30,2.32,Quadcleat
+cb019,Cu/XLPE/LSZH/AWA/LSZH,1c,240,32.8,2.93,Quadcleat
+cb020,Cu/XLPE/LSZH/AWA/LSZH,1c,300,35.6,3.58,Quadcleat
+cb021,Cu/XLPE/LSZH/AWA/LSZH,1c,400,40.5,4.6,Quadcleat
+cb022,Cu/XLPE/LSZH/AWA/LSZH,1c,500,44.2,5.77,Quadcleat
+cb023,Cu/XLPE/LSZH/AWA/LSZH,1c,630,48.8,7.25,Quadcleat
+cb024,Cu/XLPE/LSZH/AWA/LSZH,1c,800,55.4,9.381,Quadcleat
+cb025,Cu/XLPE/LSZH/AWA/LSZH,1c,1000,60.6,11.54,Quadcleat
+cb026,Cu/XLPE/LSZH/AWA/LSZH,1c,50,17.5,0.8,Trefoil
+cb027,Cu/XLPE/LSZH/AWA/LSZH,1c,70,20.2,0.96,Trefoil
+cb028,Cu/XLPE/LSZH/AWA/LSZH,1c,95,22.3,1.24,Trefoil
+cb029,Cu/XLPE/LSZH/AWA/LSZH,1c,120,24.2,1.51,Trefoil
+cb030,Cu/XLPE/LSZH/AWA/LSZH,1c,150,27.4,1.9,Trefoil
+cb031,Cu/XLPE/LSZH/AWA/LSZH,1c,185,30,2.32,Trefoil
+cb032,Cu/XLPE/LSZH/AWA/LSZH,1c,240,32.8,2.93,Trefoil
+cb033,Cu/XLPE/LSZH/AWA/LSZH,1c,300,35.6,3.58,Trefoil
+cb034,Cu/XLPE/LSZH/AWA/LSZH,1c,400,40.5,4.6,Trefoil
+cb035,Cu/XLPE/LSZH/AWA/LSZH,1c,500,44.2,5.77,Trefoil
+cb036,Cu/XLPE/LSZH/AWA/LSZH,1c,630,48.8,7.25,Trefoil
+cb037,Cu/XLPE/LSZH/AWA/LSZH,1c,800,55.4,9.381,Trefoil
+cb038,Cu/XLPE/LSZH/AWA/LSZH,1c,1000,60.6,11.54,Trefoil
+cb039,Cu/XLPE/LSZH/SWA/LSZH,2c,1.5,12.1,0.302,Single
+cb040,Cu/XLPE/LSZH/SWA/LSZH,2c,2.5,13.6,0.346,Single
+cb041,Cu/XLPE/LSZH/SWA/LSZH,2c,4,14.7,0.41,Single
+cb042,Cu/XLPE/LSZH/SWA/LSZH,2c,6,15.9,0.499,Single
+cb043,Cu/XLPE/LSZH/SWA/LSZH,2c,10,18,0.648,Single
+cb044,Cu/XLPE/LSZH/SWA/LSZH,2c,16,20.4,0.978,Single
+cb045,Cu/XLPE/LSZH/SWA/LSZH,2c,25,20.4,1.29,Single
+cb046,Cu/XLPE/LSZH/SWA/LSZH,2c,35,23.3,1.5,Single
+cb047,Cu/XLPE/LSZH/SWA/LSZH,2c,50,25.8,1.89,Single
+cb048,Cu/XLPE/LSZH/SWA/LSZH,2c,70,29,2.45,Single
+cb049,Cu/XLPE/LSZH/SWA/LSZH,2c,95,33.1,3.3,Single
+cb050,Cu/XLPE/LSZH/SWA/LSZH,2c,120,39.3,4.02,Single
+cb051,Cu/XLPE/LSZH/SWA/LSZH,2c,150,39.3,4.75,Single
+cb052,Cu/XLPE/LSZH/SWA/LSZH,3c,1.5,12.6,0.33,Single
+cb053,Cu/XLPE/LSZH/SWA/LSZH,3c,2.5,14.1,0.39,Single
+cb054,Cu/XLPE/LSZH/SWA/LSZH,3c,4,15.3,0.464,Single
+cb055,Cu/XLPE/LSZH/SWA/LSZH,3c,6,16.6,0.568,Single
+cb056,Cu/XLPE/LSZH/SWA/LSZH,3c,10,19.5,0.866,Single
+cb057,Cu/XLPE/LSZH/SWA/LSZH,3c,16,21.6,1.152,Single
+cb058,Cu/XLPE/LSZH/SWA/LSZH,3c,25,23.6,1.8,Single
+cb059,Cu/XLPE/LSZH/SWA/LSZH,3c,35,25.7,2.23,Single
+cb060,Cu/XLPE/LSZH/SWA/LSZH,3c,50,28.5,2.49,Single
+cb061,Cu/XLPE/LSZH/SWA/LSZH,3c,70,32.2,3.29,Single
+cb062,Cu/XLPE/LSZH/SWA/LSZH,3c,95,37,4.44,Single
+cb063,Cu/XLPE/LSZH/SWA/LSZH,3c,120,40.4,5.47,Single
+cb064,Cu/XLPE/LSZH/SWA/LSZH,3c,150,45.5,6.93,Single
+cb065,Cu/XLPE/LSZH/SWA/LSZH,4c,1.5,13.5,0.365,Single
+cb066,Cu/XLPE/LSZH/SWA/LSZH,4c,2.5,15,0.438,Single
+cb067,Cu/XLPE/LSZH/SWA/LSZH,4c,4,16.4,0.532,Single
+cb068,Cu/XLPE/LSZH/SWA/LSZH,4c,6,18.7,0.764,Single
+cb069,Cu/XLPE/LSZH/SWA/LSZH,4c,10,21.1,1.013,Single
+cb070,Cu/XLPE/LSZH/SWA/LSZH,4c,16,23.4,1.36,Single
+cb071,Cu/XLPE/LSZH/SWA/LSZH,4c,25,26.1,2.16,Single
+cb072,Cu/XLPE/LSZH/SWA/LSZH,4c,35,28.6,2.69,Single
+cb073,Cu/XLPE/LSZH/SWA/LSZH,4c,50,32,3.13,Single
+cb074,Cu/XLPE/LSZH/SWA/LSZH,4c,70,37.7,4.5,Single
+cb075,Cu/XLPE/LSZH/SWA/LSZH,4c,95,41.7,5.6,Single
+cb076,Cu/XLPE/LSZH/SWA/LSZH,4c,120,47.1,7.4,Single
+cb077,Cu/XLPE/LSZH/SWA/LSZH,4c,150,51.4,8.78,Single
+cb078,Cu/XLPE/LSZH/SWA/LSZH,4c,185,56.6,10.63,Single
+cb079,Cu/XLPE/LSZH/SWA/LSZH,4c,240,63,13.39,Single
+cb080,Cu/XLPE/LSZH/SWA/LSZH,4c,300,63.6,14.998,Single
+cb081,Cu/XLPE/LSZH/SWA/LSZH,5c,1.5,14.3,0.41,Single
+cb082,Cu/XLPE/LSZH/SWA/LSZH,5c,2.5,16.3,0.47,Single
+cb083,Cu/XLPE/LSZH/SWA/LSZH,5c,4,17.8,0.71,Single
+cb084,Cu/XLPE/LSZH/SWA/LSZH,5c,6,20,0.876,Single
+cb085,Cu/XLPE/LSZH/SWA/LSZH,5c,10,22.9,1.165,Single
+cb086,Cu/XLPE/LSZH/SWA/LSZH,5c,16,26.6,1.742,Single
+cb087,Cu/XLPE/LSZH/SWA/LSZH,5c,25,31.5,2.323,Single
+cb088,Cu/XLPE/LSZH/SWA/LSZH,5c,35,34.8,2.932,Single
+cb089,Cu/XLPE/LSZH/SWA/LSZH,5c,50,40.4,4.192,Single
+cb090,Cu/XLPE/LSZH/SWA/LSZH,7c,1.5,15.2,0.47,Single
+cb091,Cu/XLPE/LSZH/SWA/LSZH,7c,2.5,17.1,0.6,Single
+cb092,Cu/XLPE/LSZH/SWA/LSZH,12c,1.5,19.4,0.78,Single
+cb093,Cu/XLPE/LSZH/SWA/LSZH,12c,2.5,22.4,1,Single
+cb094,Cu/XLPE/LSZH/SWA/LSZH,19c,1.5,22.2,1,Single
+cb095,Cu/XLPE/LSZH/SWA/LSZH,19c,2.5,26.6,1.54,Single
+cb096,Cu/XLPE/LSZH/SWA/LSZH,27c,1.5,26.7,1.5,Single
+cb097,Cu/XLPE/LSZH/SWA/LSZH,27c,2.5,30.7,1.95,Single
+cb098,Cu/XLPE/LSZH/SWA/LSZH,37c,1.5,29,1.8,Single
+cb099,Cu/XLPE/LSZH/SWA/LSZH,37c,2.5,33.8,2.35,Single
+cb100,Cu/XLPE/PVC/AWA/PVC,1c,50,17.5,0.8,Single
+cb101,Cu/XLPE/PVC/AWA/PVC,1c,70,20.2,0.96,Single
+cb102,Cu/XLPE/PVC/AWA/PVC,1c,95,22.3,1.24,Single
+cb103,Cu/XLPE/PVC/AWA/PVC,1c,120,24.2,1.51,Single
+cb104,Cu/XLPE/PVC/AWA/PVC,1c,150,27.4,1.9,Single
+cb105,Cu/XLPE/PVC/AWA/PVC,1c,185,30,2.32,Single
+cb106,Cu/XLPE/PVC/AWA/PVC,1c,240,32.8,2.93,Single
+cb107,Cu/XLPE/PVC/AWA/PVC,1c,300,35.6,3.58,Single
+cb108,Cu/XLPE/PVC/AWA/PVC,1c,400,40.5,4.6,Single
+cb109,Cu/XLPE/PVC/AWA/PVC,1c,500,44.2,5.77,Single
+cb110,Cu/XLPE/PVC/AWA/PVC,1c,630,48.8,7.25,Single
+cb111,Cu/XLPE/PVC/AWA/PVC,1c,800,55.4,9.381,Single
+cb112,Cu/XLPE/PVC/AWA/PVC,1c,1000,60.6,11.54,Single
+cb113,Cu/XLPE/PVC/AWA/PVC,1c,50,17.5,0.8,Quadcleat
+cb114,Cu/XLPE/PVC/AWA/PVC,1c,70,20.2,0.96,Quadcleat
+cb115,Cu/XLPE/PVC/AWA/PVC,1c,95,22.3,1.24,Quadcleat
+cb116,Cu/XLPE/PVC/AWA/PVC,1c,120,24.2,1.51,Quadcleat
+cb117,Cu/XLPE/PVC/AWA/PVC,1c,150,27.4,1.9,Quadcleat
+cb118,Cu/XLPE/PVC/AWA/PVC,1c,185,30,2.32,Quadcleat
+cb119,Cu/XLPE/PVC/AWA/PVC,1c,240,32.8,2.93,Quadcleat
+cb120,Cu/XLPE/PVC/AWA/PVC,1c,300,35.6,3.58,Quadcleat
+cb121,Cu/XLPE/PVC/AWA/PVC,1c,400,40.5,4.6,Quadcleat
+cb122,Cu/XLPE/PVC/AWA/PVC,1c,500,44.2,5.77,Quadcleat
+cb123,Cu/XLPE/PVC/AWA/PVC,1c,630,48.8,7.25,Quadcleat
+cb124,Cu/XLPE/PVC/AWA/PVC,1c,800,55.4,9.381,Quadcleat
+cb125,Cu/XLPE/PVC/AWA/PVC,1c,1000,60.6,11.54,Quadcleat
+cb126,Cu/XLPE/PVC/AWA/PVC,1c,50,17.5,0.8,Trefoil
+cb127,Cu/XLPE/PVC/AWA/PVC,1c,70,20.2,0.96,Trefoil
+cb128,Cu/XLPE/PVC/AWA/PVC,1c,95,22.3,1.24,Trefoil
+cb129,Cu/XLPE/PVC/AWA/PVC,1c,120,24.2,1.51,Trefoil
+cb130,Cu/XLPE/PVC/AWA/PVC,1c,150,27.4,1.9,Trefoil
+cb131,Cu/XLPE/PVC/AWA/PVC,1c,185,30,2.32,Trefoil
+cb132,Cu/XLPE/PVC/AWA/PVC,1c,240,32.8,2.93,Trefoil
+cb133,Cu/XLPE/PVC/AWA/PVC,1c,300,35.6,3.58,Trefoil
+cb134,Cu/XLPE/PVC/AWA/PVC,1c,400,40.5,4.6,Trefoil
+cb135,Cu/XLPE/PVC/AWA/PVC,1c,500,44.2,5.77,Trefoil
+cb136,Cu/XLPE/PVC/AWA/PVC,1c,630,48.8,7.25,Trefoil
+cb137,Cu/XLPE/PVC/AWA/PVC,1c,800,55.4,9.381,Trefoil
+cb138,Cu/XLPE/PVC/AWA/PVC,1c,1000,60.6,11.54,Trefoil
+cb139,Cu/XLPE/PVC/SWA/PVC,2c,1.5,12.1,0.302,Single
+cb140,Cu/XLPE/PVC/SWA/PVC,2c,2.5,13.6,0.346,Single
+cb141,Cu/XLPE/PVC/SWA/PVC,2c,4,14.7,0.41,Single
+cb142,Cu/XLPE/PVC/SWA/PVC,2c,6,15.9,0.499,Single
+cb143,Cu/XLPE/PVC/SWA/PVC,2c,10,18,0.648,Single
+cb144,Cu/XLPE/PVC/SWA/PVC,2c,16,20.4,0.978,Single
+cb145,Cu/XLPE/PVC/SWA/PVC,2c,25,20.4,1.29,Single
+cb146,Cu/XLPE/PVC/SWA/PVC,2c,35,23.3,1.5,Single
+cb147,Cu/XLPE/PVC/SWA/PVC,2c,50,25.8,1.89,Single
+cb148,Cu/XLPE/PVC/SWA/PVC,2c,70,29,2.5,Single
+cb149,Cu/XLPE/PVC/SWA/PVC,2c,95,33.1,3.3,Single
+cb150,Cu/XLPE/PVC/SWA/PVC,2c,120,36.1,4.02,Single
+cb151,Cu/XLPE/PVC/SWA/PVC,2c,150,39.3,4.75,Single
+cb152,Cu/XLPE/PVC/SWA/PVC,3c,1.5,12.6,0.33,Single
+cb153,Cu/XLPE/PVC/SWA/PVC,3c,2.5,14.1,0.39,Single
+cb154,Cu/XLPE/PVC/SWA/PVC,3c,4,15.3,0.464,Single
+cb155,Cu/XLPE/PVC/SWA/PVC,3c,6,16.6,0.568,Single
+cb156,Cu/XLPE/PVC/SWA/PVC,3c,10,19.5,0.866,Single
+cb157,Cu/XLPE/PVC/SWA/PVC,3c,16,21.6,1.152,Single
+cb158,Cu/XLPE/PVC/SWA/PVC,3c,25,23.6,1.8,Single
+cb159,Cu/XLPE/PVC/SWA/PVC,3c,35,25.7,2.23,Single
+cb160,Cu/XLPE/PVC/SWA/PVC,3c,50,28.5,2.49,Single
+cb161,Cu/XLPE/PVC/SWA/PVC,3c,70,32.2,3.29,Single
+cb162,Cu/XLPE/PVC/SWA/PVC,3c,95,37,4.44,Single
+cb163,Cu/XLPE/PVC/SWA/PVC,3c,120,40.4,5.47,Single
+cb164,Cu/XLPE/PVC/SWA/PVC,3c,150,45.5,6.93,Single
+cb165,Cu/XLPE/PVC/SWA/PVC,3c,185,49.8,8.35,Single
+cb166,Cu/XLPE/PVC/SWA/PVC,3c,240,55.1,10.4,Single
+cb167,Cu/XLPE/PVC/SWA/PVC,3c,300,60.2,12.6,Single
+cb168,Cu/XLPE/PVC/SWA/PVC,3c,400,66.6,14.6,Single
+cb169,Cu/XLPE/PVC/SWA/PVC,4c,1.5,13.3,0.365,Single
+cb170,Cu/XLPE/PVC/SWA/PVC,4c,2.5,15,0.438,Single
+cb171,Cu/XLPE/PVC/SWA/PVC,4c,4,16.4,0.532,Single
+cb172,Cu/XLPE/PVC/SWA/PVC,4c,6,18.7,0.764,Single
+cb173,Cu/XLPE/PVC/SWA/PVC,4c,10,21.1,1.013,Single
+cb174,Cu/XLPE/PVC/SWA/PVC,4c,16,23.4,1.36,Single
+cb175,Cu/XLPE/PVC/SWA/PVC,4c,25,26.1,2.16,Single
+cb176,Cu/XLPE/PVC/SWA/PVC,4c,35,28.6,2.69,Single
+cb177,Cu/XLPE/PVC/SWA/PVC,4c,50,32,3.13,Single
+cb178,Cu/XLPE/PVC/SWA/PVC,4c,70,37.7,4.5,Single
+cb179,Cu/XLPE/PVC/SWA/PVC,4c,95,41.7,5.6,Single
+cb180,Cu/XLPE/PVC/SWA/PVC,4c,120,47.1,7.4,Single
+cb181,Cu/XLPE/PVC/SWA/PVC,4c,150,51.4,8.78,Single
+cb182,Cu/XLPE/PVC/SWA/PVC,4c,185,56.6,10.63,Single
+cb183,Cu/XLPE/PVC/SWA/PVC,4c,240,63,13.39,Single
+cb184,Cu/XLPE/PVC/SWA/PVC,4c,300,68.8,16.29,Single
+cb185,Cu/XLPE/PVC/SWA/PVC,4c,400,78.1,19.8,Single
+cb186,Cu/XLPE/PVC/SWA/PVC,5c,1.5,14.3,0.41,Single
+cb187,Cu/XLPE/PVC/SWA/PVC,5c,2.5,16.1,0.47,Single
+cb188,Cu/XLPE/PVC/SWA/PVC,5c,4,17.8,0.71,Single
+cb189,Cu/XLPE/PVC/SWA/PVC,5c,6,20,0.876,Single
+cb190,Cu/XLPE/PVC/SWA/PVC,5c,10,22.9,1.165,Single
+cb191,Cu/XLPE/PVC/SWA/PVC,5c,16,26.6,1.742,Single
+cb192,Cu/XLPE/PVC/SWA/PVC,5c,25,31.5,2.323,Single
+cb193,Cu/XLPE/PVC/SWA/PVC,5c,35,34.8,2.932,Single
+cb194,Cu/XLPE/PVC/SWA/PVC,5c,50,40.4,4.192,Single
+cb195,Cu/XLPE/PVC/SWA/PVC,7c,1.5,15.2,0.47,Single
+cb196,Cu/XLPE/PVC/SWA/PVC,7c,2.5,17.1,0.6,Single
+cb197,Cu/XLPE/PVC/SWA/PVC,7c,4,19.1,0.881,Single
+cb198,Cu/XLPE/PVC/SWA/PVC,12c,1.5,19.4,0.78,Single
+cb199,Cu/XLPE/PVC/SWA/PVC,12c,2.5,22.4,1,Single
+cb200,Cu/XLPE/PVC/SWA/PVC,19c,1.5,22.2,1,Single
+cb201,Cu/XLPE/PVC/SWA/PVC,19c,2.5,26.6,1.54,Single
+cb202,Cu/XLPE/PVC/SWA/PVC,27c,1.5,26.7,1.5,Single
+cb203,Cu/XLPE/PVC/SWA/PVC,27c,2.5,30.7,1.95,Single
+cb204,Cu/XLPE/PVC/SWA/PVC,37c,1.5,29,1.8,Single
+cb205,Cu/XLPE/PVC/SWA/PVC,37c,2.5,33.8,2.35,Single
+cb206,Cu/LSZH  6491B (CPC),1c,1.5,3.4,0.02,Single
+cb207,Cu/LSZH  6491B (CPC),1c,2.5,4.1,0.04,Single
+cb208,Cu/LSZH  6491B (CPC),1c,4,4.7,0.05,Single
+cb209,Cu/LSZH  6491B (CPC),1c,6,5.4,0.07,Single
+cb210,Cu/LSZH  6491B (CPC),1c,10,6.8,0.12,Single
+cb211,Cu/LSZH  6491B (CPC),1c,16,8,0.18,Single
+cb212,Cu/LSZH  6491B (CPC),1c,25,9.8,0.29,Single
+cb213,Cu/LSZH  6491B (CPC),1c,35,10,0.39,Single
+cb214,Cu/LSZH  6491B (CPC),1c,50,13.2,0.51,Single
+cb215,Cu/LSZH  6491B (CPC),1c,70,15.1,0.71,Single
+cb216,Cu/LSZH  6491B (CPC),1c,95,17,0.98,Single
+cb217,Cu/LSZH  6491B (CPC),1c,120,19,1.22,Single
+cb218,Cu/LSZH  6491B (CPC),1c,150,21,1.5,Single
+cb219,Cu/LSZH  6491B (CPC),1c,185,23.5,1.91,Single
+cb220,Cu/LSZH  6491B (CPC),1c,240,26.5,2.49,Single
+cb221,Cu/LSZH  6491B (CPC),1c,300,29.5,3.1,Single
+cb222,Cu/LSZH  6491B (CPC),1c,400,33.5,3.95,Single
+cb223,Cu/LSZH  6491B (CPC),1c,500,37,5,Single
+cb224,Cu/LSZH  6491B (CPC),1c,630,41,6.35,Single
+cb225,Cu/XLPE/LSZH,1c,50,13,0.525,Single
+cb226,Cu/XLPE/LSZH,1c,70,15.5,0.73,Single
+cb227,Cu/XLPE/LSZH,1c,95,18,0.99,Single
+cb228,Cu/XLPE/LSZH,1c,120,19.5,1.23,Single
+cb229,Cu/XLPE/LSZH,1c,150,32,2.15,Single
+cb230,Cu/XLPE/LSZH,1c,185,32,2.4,Single
+cb231,Cu/XLPE/LSZH,1c,240,40,2.7,Single
+cb232,Cu/XLPE/LSZH,1c,300,40,2.95,Single
+cb233,Cu/XLPE/LSZH,1c,400,50,3.3,Single
+cb234,Cu/XLPE/LSZH,1c,500,50,3.75,Single
+cb235,Cu/XLPE/LSZH,1c,630,50,4.2,Single
+cb236,Cu/XLPE/LSZH,1c,800,63,4.75,Single
+cb237,Cu/XLPE/LSZH,1c,1000,63,5.3,Single
+cb238,Cu/XLPE/LSZH,1c,50,13,0.525,Trefoil
+cb239,Cu/XLPE/LSZH,1c,70,15.5,0.73,Trefoil
+cb240,Cu/XLPE/LSZH,1c,95,18,0.99,Trefoil
+cb241,Cu/XLPE/LSZH,1c,120,19.5,1.23,Trefoil
+cb242,Cu/XLPE/LSZH,1c,150,32,2.15,Trefoil
+cb243,Cu/XLPE/LSZH,1c,185,32,2.4,Trefoil
+cb244,Cu/XLPE/LSZH,1c,240,40,2.7,Trefoil
+cb245,Cu/XLPE/LSZH,1c,300,40,2.95,Trefoil
+cb246,Cu/XLPE/LSZH,1c,400,50,3.3,Trefoil
+cb247,Cu/XLPE/LSZH,1c,500,50,3.75,Trefoil
+cb248,Cu/XLPE/LSZH,1c,630,50,4.2,Trefoil
+cb249,Cu/XLPE/LSZH,1c,800,63,4.75,Trefoil
+cb250,Cu/XLPE/LSZH,1c,1000,63,5.3,Trefoil
+cb251,Cu/XLPE/LSZH,1c,50,13,0.525,Quadcleat
+cb252,Cu/XLPE/LSZH,1c,70,15.5,0.73,Quadcleat
+cb253,Cu/XLPE/LSZH,1c,95,18,0.99,Quadcleat
+cb254,Cu/XLPE/LSZH,1c,120,19.5,1.23,Quadcleat
+cb255,Cu/XLPE/LSZH,1c,150,32,2.15,Quadcleat
+cb256,Cu/XLPE/LSZH,1c,185,32,2.4,Quadcleat
+cb257,Cu/XLPE/LSZH,1c,240,40,2.7,Quadcleat
+cb258,Cu/XLPE/LSZH,1c,300,40,2.95,Quadcleat
+cb259,Cu/XLPE/LSZH,1c,400,50,3.3,Quadcleat
+cb260,Cu/XLPE/LSZH,1c,500,50,3.75,Quadcleat
+cb261,Cu/XLPE/LSZH,1c,630,50,4.2,Quadcleat
+cb262,Cu/XLPE/LSZH,1c,800,63,4.75,Quadcleat
+cb263,Cu/XLPE/LSZH,1c,1000,63,5.3,Quadcleat
+cb264,FP400,2c,1.5,12.9,0.31,Single
+cb265,FP400,2c,2.5,14.1,0.38,Single
+cb266,FP400,2c,4,15.2,0.45,Single
+cb267,FP400,2c,6,16.4,0.53,Single
+cb268,FP400,2c,10,18.6,0.63,Single
+cb269,FP400,2c,16,21.4,0.92,Single
+cb270,FP400,2c,25,23.7,1.2,Single
+cb271,FP400,2c,35,27.2,1.6,Single
+cb272,FP400,2c,50,28,2,Single
+cb273,FP400,2c,70,30.7,2.4,Single
+cb274,FP400,2c,95,35.3,3.3,Single
+cb275,FP400,2c,120,36.6,3.8,Single
+cb276,FP400,2c,150,39.3,4.4,Single
+cb277,FP400,2c,185,44.2,5.7,Single
+cb278,FP400,2c,240,48,7.2,Single
+cb279,FP400,2c,300,51.8,8.3,Single
+cb280,FP400,2c,400,55.9,10.5,Single
+cb281,FP400,3c,1.5,13.4,0.34,Single
+cb282,FP400,3c,2.5,14.8,0.43,Single
+cb283,FP400,3c,4,16.1,0.51,Single
+cb284,FP400,3c,6,17.4,0.62,Single
+cb285,FP400,3c,10,20.3,0.93,Single
+cb286,FP400,3c,16,22.8,1.21,Single
+cb287,FP400,3c,25,27.4,1.8,Single
+cb288,FP400,3c,35,29.2,2.1,Single
+cb289,FP400,3c,50,33,2.6,Single
+cb290,FP400,3c,70,37,3.4,Single
+cb291,FP400,3c,95,40.6,4.5,Single
+cb292,FP400,3c,120,43.8,5.5,Single
+cb293,FP400,3c,150,48,6.9,Single
+cb294,FP400,3c,185,52,8.2,Single
+cb295,FP400,3c,240,57.1,10.2,Single
+cb296,FP400,3c,300,63,12.2,Single
+cb297,FP400,3c,400,69.5,15,Single
+cb298,FP400,4c,1.5,14.3,0.39,Single
+cb299,FP400,4c,2.5,16,0.49,Single
+cb300,FP400,4c,4,17.3,0.59,Single
+cb301,FP400,4c,6,19.6,0.83,Single
+cb302,FP400,4c,10,21.8,1.04,Single
+cb303,FP400,4c,16,24.6,1.37,Single
+cb304,FP400,4c,25,29.1,2.1,Single
+cb305,FP400,4c,35,32.2,2.5,Single
+cb306,FP400,4c,50,35,3.2,Single
+cb307,FP400,4c,70,40.2,4.5,Single
+cb308,FP400,4c,95,44,56,Single
+cb309,FP400,4c,120,48.4,7.2,Single
+cb310,FP400,4c,150,52.5,8.5,Single
+cb311,FP400,4c,185,57.1,10.3,Single
+cb312,FP400,4c,240,62.7,12.8,Single
+cb313,FP400,4c,300,69.6,15.6,Single
+cb314,FP400,4c,400,78,20.4,Single
+cb315,FP400,7c,1.5,16.4,0.5,Single
+cb316,FP400,7c,2.5,18.3,0.64,Single
+cb317,FP400,7c,4,20.8,0.91,Single
+cb318,FP400,12c,1.5,21.2,0.85,Single
+cb319,FP400,12c,2.5,24,1.09,Single
+cb320,FP400,12c,4,27.3,1.55,Single
+cb321,FP400,19c,1.5,24.2,1.12,Single
+cb322,FP400,19c,2.5,28.6,1.65,Single
+cb323,FP400,27c,1.5,29.4,1.65,Single
+cb324,FP400,27c,2.5,33.4,2.15,Single
+cb325,FP400,37c,1.5,32.2,2,Single
+cb326,FP400,37c,2.5,36.7,2.65,Single
+cb327,FP600S,2c,4,20.3,0.8,Single
+cb328,FP600S,2c,6,20.2,0.85,Single
+cb329,FP600S,2c,10,22.9,1.1,Single
+cb330,FP600S,2c,16,24.2,1.2,Single
+cb331,FP600S,2c,25,26.7,1.55,Single
+cb332,FP600S,2c,35,30.3,2.1,Single
+cb333,FP600S,2c,50,30,2.1,Single
+cb334,FP600S,2c,70,32.8,2.6,Single
+cb335,FP600S,2c,95,35.2,3.4,Single
+cb336,FP600S,2c,120,38.7,4.1,Single
+cb337,FP600S,2c,150,41.5,4.8,Single
+cb338,FP600S,2c,185,46.3,6.1,Single
+cb339,FP600S,2c,240,50.9,7.5,Single
+cb340,FP600S,2c,300,55.3,9,Single
+cb341,FP600S,2c,400,60.5,10.9,Single
+cb342,FP600S,3c,4,21.1,0.91,Single
+cb343,FP600S,3c,6,20.4,0.85,Single
+cb344,FP600S,3c,10,24.4,1.2,Single
+cb345,FP600S,3c,16,25.6,1.4,Single
+cb346,FP600S,3c,25,29.5,2,Single
+cb347,FP600S,3c,35,32.3,2.45,Single
+cb348,FP600S,3c,50,32.2,2.65,Single
+cb349,FP600S,3c,70,35.2,3.35,Single
+cb350,FP600S,3c,95,40.1,4.6,Single
+cb351,FP600S,3c,120,43.4,5.45,Single
+cb352,FP600S,3c,150,48.5,6.95,Single
+cb353,FP600S,3c,185,52.4,8.25,Single
+cb354,FP600S,3c,240,57.5,10.3,Single
+cb355,FP600S,3c,300,62.6,12.35,Single
+cb356,FP600S,3c,400,68.8,15.2,Single
+cb357,FP600S,4c,4,20.8,0.86,Single
+cb358,FP600S,4c,6,22.1,1,Single
+cb359,FP600S,4c,10,26,1.4,Single
+cb360,FP600S,4c,16,27.8,1.65,Single
+cb361,FP600S,4c,25,32.1,2.35,Single
+cb362,FP600S,4c,35,35.3,2.95,Single
+cb363,FP600S,4c,50,36.4,3.3,Single
+cb364,FP600S,4c,70,40.5,4.55,Single
+cb365,FP600S,4c,95,44.3,5.7,Single
+cb366,FP600S,4c,120,49.4,7.35,Single
+cb367,FP600S,4c,150,58.8,8.7,Single
+cb368,FP600S,4c,185,53.6,10.5,Single
+cb369,FP600S,4c,240,64.4,13.1,Single
+cb370,FP600S,4c,300,69.9,15.75,Single
+cb371,FP600S,4c,400,78.6,20.35,Single
+cb372,FP600S,5c,4,23,1.05,Single
+cb373,FP600S,5c,6,23.7,1.15,Single
+cb374,FP600S,5c,10,28.8,1.65,Single
+cb375,FP600S,5c,16,31.3,2.1,Single
+cb376,FP600S,5c,25,34.7,2.75,Single
+cb377,FP600S,5c,35,38.2,3.35,Single
+cb378,Cu/LSZH/LSZH,1c,1.5,6.4,0.063,Single
+cb379,Cu/LSZH/LSZH,1c,2.5,7.1,0.076,Single
+cb380,Cu/LSZH/LSZH,1c,4,8.1,0.107,Single
+cb381,Cu/LSZH/LSZH,1c,6,8.85,0.14,Single
+cb382,Cu/LSZH/LSZH,1c,10,10.7,0.213,Single
+cb383,Cu/LSZH/LSZH,1c,16,12.1,0.291,Single
+cb384,Cu/LSZH/LSZH,1c,25,14.25,0.415,Single
+cb385,Cu/LSZH/LSZH,1c,35,16.1,0.539,Single
+cb386,Cu/LSZH/LSZH,1c,50,18.55,0.74,Single
+cb387,Cu/LSZH/LSZH,1c,70,20.95,0.989,Single
+cb388,Cu/LSZH/LSZH,1c,95,23.4,1.29,Single
+cb389,Cu/LSZH/LSZH,1c,120,25.7,1.592,Single
+cb390,Cu/LSZH/LSZH,1c,150,28.3,1.957,Single
+cb391,Cu/LSZH/LSZH,1c,185,31,2.35,Single
+cb392,Cu/LSZH/LSZH,1c,240,34.45,3.099,Single
+cb393,Cu/LSZH/LSZH,1c,300,37.7,3.687,Single
+cb394,Cu/LSZH/LSZH,1c,400,42.1,4.85,Single
+cb395,Cu/LSZH/LSZH,1c,500,46.65,5.998,Single
+cb396,Cu/LSZH/LSZH,1c,1.5,6.4,0.063,Trefoil
+cb397,Cu/LSZH/LSZH,1c,2.5,7.1,0.076,Trefoil
+cb398,Cu/LSZH/LSZH,1c,4,8.1,0.107,Trefoil
+cb399,Cu/LSZH/LSZH,1c,6,8.85,0.14,Trefoil
+cb400,Cu/LSZH/LSZH,1c,10,10.7,0.213,Trefoil
+cb401,Cu/LSZH/LSZH,1c,16,12.1,0.291,Trefoil
+cb402,Cu/LSZH/LSZH,1c,25,14.25,0.415,Trefoil
+cb403,Cu/LSZH/LSZH,1c,35,16.1,0.539,Trefoil
+cb404,Cu/LSZH/LSZH,1c,50,18.55,0.74,Trefoil
+cb405,Cu/LSZH/LSZH,1c,70,20.95,0.989,Trefoil
+cb406,Cu/LSZH/LSZH,1c,95,23.4,1.29,Trefoil
+cb407,Cu/LSZH/LSZH,1c,120,25.7,1.592,Trefoil
+cb408,Cu/LSZH/LSZH,1c,150,28.3,1.957,Trefoil
+cb409,Cu/LSZH/LSZH,1c,185,31,2.35,Trefoil
+cb410,Cu/LSZH/LSZH,1c,240,34.45,3.099,Trefoil
+cb411,Cu/LSZH/LSZH,1c,300,37.7,3.687,Trefoil
+cb412,Cu/LSZH/LSZH,1c,400,42.1,4.85,Trefoil
+cb413,Cu/LSZH/LSZH,1c,500,46.65,5.998,Trefoil
+cb414,Cu/LSZH/LSZH,1c,1.5,6.4,0.063,Quadcleat
+cb415,Cu/LSZH/LSZH,1c,2.5,7.1,0.076,Quadcleat
+cb416,Cu/LSZH/LSZH,1c,4,8.1,0.107,Quadcleat
+cb417,Cu/LSZH/LSZH,1c,6,8.85,0.14,Quadcleat
+cb418,Cu/LSZH/LSZH,1c,10,10.7,0.213,Quadcleat
+cb419,Cu/LSZH/LSZH,1c,16,12.1,0.291,Quadcleat
+cb420,Cu/LSZH/LSZH,1c,25,14.25,0.415,Quadcleat
+cb421,Cu/LSZH/LSZH,1c,35,16.1,0.539,Quadcleat
+cb422,Cu/LSZH/LSZH,1c,50,18.55,0.74,Quadcleat
+cb423,Cu/LSZH/LSZH,1c,70,20.95,0.989,Quadcleat
+cb424,Cu/LSZH/LSZH,1c,95,23.4,1.29,Quadcleat
+cb425,Cu/LSZH/LSZH,1c,120,25.7,1.592,Quadcleat
+cb426,Cu/LSZH/LSZH,1c,150,28.3,1.957,Quadcleat
+cb427,Cu/LSZH/LSZH,1c,185,31,2.35,Quadcleat
+cb428,Cu/LSZH/LSZH,1c,240,34.45,3.099,Quadcleat
+cb429,Cu/LSZH/LSZH,1c,300,37.7,3.687,Quadcleat
+cb430,Cu/LSZH/LSZH,1c,400,42.1,4.85,Quadcleat
+cb431,Cu/LSZH/LSZH,1c,500,46.65,5.998,Quadcleat
+cb432,N2XH Enhanced Flex,1c,1.5,5.4,0.066,Single
+cb433,N2XH Enhanced Flex,1c,2.5,5.8,0.077,Single
+cb434,N2XH Enhanced Flex,1c,4,6.3,0.074,Single
+cb435,N2XH Enhanced Flex,1c,6,6.8,0.095,Single
+cb436,N2XH Enhanced Flex,1c,10,7.9,0.138,Single
+cb437,N2XH Enhanced Flex,1c,16,9.1,0.199,Single
+cb438,N2XH Enhanced Flex,1c,25,10.8,0.288,Single
+cb439,N2XH Enhanced Flex,1c,35,11.7,0.381,Single
+cb440,N2XH Enhanced Flex,1c,50,13.7,0.526,Single
+cb441,N2XH Enhanced Flex,1c,70,15.8,0.72,Single
+cb442,N2XH Enhanced Flex,1c,95,17.3,0.941,Single
+cb443,N2XH Enhanced Flex,1c,120,19,1.183,Single
+cb444,N2XH Enhanced Flex,1c,150,21.4,1.456,Single
+cb445,N2XH Enhanced Flex,1c,185,24.2,1.807,Single
+cb446,N2XH Enhanced Flex,1c,240,26.4,2.295,Single
+cb447,N2XH Enhanced Flex,1c,300,29.7,2.846,Single
+cb448,N2XH Enhanced Flex,1c,400,33.4,3.681,Single
+cb449,N2XH Enhanced Flex,1c,500,37.3,4.72,Single
+cb450,N2XH Enhanced Flex,1c,630,41.2,6.176,Single
+cb451,N2XH Enhanced Flex,2c,1.5,10,0.147,Single
+cb452,N2XH Enhanced Flex,2c,2.5,10.8,0.179,Single
+cb453,N2XH Enhanced Flex,2c,4,11.8,0.226,Single
+cb454,N2XH Enhanced Flex,2c,6,12.8,0.281,Single
+cb455,N2XH Enhanced Flex,2c,10,15.2,0.412,Single
+cb456,N2XH Enhanced Flex,2c,16,17.5,0.577,Single
+cb457,N2XH Enhanced Flex,2c,25,21.4,0.858,Single
+cb458,N2XH Enhanced Flex,2c,35,23.2,1.092,Single
+cb459,N2XH Enhanced Flex,2c,50,27.1,1.503,Single
+cb460,N2XH Enhanced Flex,2c,70,31.6,2.045,Single
+cb461,N2XH Enhanced Flex,2c,95,34.8,2.643,Single
+cb462,N2XH Enhanced Flex,2c,120,38.6,3.318,Single
+cb463,N2XH Enhanced Flex,2c,150,43.7,4.146,Single
+cb464,N2XH Enhanced Flex,2c,185,49.8,5.215,Single
+cb465,N2XH Enhanced Flex,2c,240,54.2,6.491,Single
+cb466,N2XH Enhanced Flex,2c,300,60.8,8.079,Single
+cb467,N2XH Enhanced Flex,2c,400,67.6,10.39,Single
+cb468,N2XH Enhanced Flex,3c,1.5,10.5,0.165,Single
+cb469,N2XH Enhanced Flex,3c,2.5,11.3,0.206,Single
+cb470,N2XH Enhanced Flex,3c,4,12.4,0.266,Single
+cb471,N2XH Enhanced Flex,3c,6,13.5,0.337,Single
+cb472,N2XH Enhanced Flex,3c,10,16.1,0.503,Single
+cb473,N2XH Enhanced Flex,3c,16,18.6,0.718,Single
+cb474,N2XH Enhanced Flex,3c,25,22.7,1.071,Single
+cb475,N2XH Enhanced Flex,3c,35,24.7,1.388,Single
+cb476,N2XH Enhanced Flex,3c,50,29.1,1.919,Single
+cb477,N2XH Enhanced Flex,3c,70,34,2.603,Single
+cb478,N2XH Enhanced Flex,3c,95,37.2,3.423,Single
+cb479,N2XH Enhanced Flex,3c,120,41.2,4.316,Single
+cb480,N2XH Enhanced Flex,3c,150,46.9,5.397,Single
+cb481,N2XH Enhanced Flex,3c,185,53.4,6.761,Single
+cb482,N2XH Enhanced Flex,3c,240,57.9,8.483,Single
+cb483,N2XH Enhanced Flex,3c,300,65.3,10.583,Single
+cb484,N2XH Enhanced Flex,3c,400,73.2,13.671,Single
+cb485,N2XH Enhanced Flex,4c,1.5,11.3,0.193,Single
+cb486,N2XH Enhanced Flex,4c,2.5,12.2,0.243,Single
+cb487,N2XH Enhanced Flex,4c,4,13.4,0.32,Single
+cb488,N2XH Enhanced Flex,4c,6,14.6,0.411,Single
+cb489,N2XH Enhanced Flex,4c,10,17.5,0.62,Single
+cb490,N2XH Enhanced Flex,4c,16,20.3,0.895,Single
+cb491,N2XH Enhanced Flex,4c,25,24.9,1.34,Single
+cb492,N2XH Enhanced Flex,4c,35,27.3,1.752,Single
+cb493,N2XH Enhanced Flex,4c,50,32,2.449,Single
+cb494,N2XH Enhanced Flex,4c,70,37.4,3.379,Single
+cb495,N2XH Enhanced Flex,4c,95,41.2,4.387,Single
+cb496,N2XH Enhanced Flex,4c,120,45.9,5.561,Single
+cb497,N2XH Enhanced Flex,4c,150,51.9,7.091,Single
+cb498,N2XH Enhanced Flex,4c,185,59.2,8.691,Single
+cb499,N2XH Enhanced Flex,4c,240,64.4,10.919,Single
+cb500,N2XH Enhanced Flex,4c,300,72.6,13.618,Single
+cb501,N2XH Enhanced Flex,4c,400,80.8,17.511,Single
+cb502,N2XH Enhanced Flex,1c,1.5,5.4,0.066,Trefoil
+cb503,N2XH Enhanced Flex,1c,2.5,5.8,0.077,Trefoil
+cb504,N2XH Enhanced Flex,1c,4,6.3,0.074,Trefoil
+cb505,N2XH Enhanced Flex,1c,6,6.8,0.095,Trefoil
+cb506,N2XH Enhanced Flex,1c,10,7.9,0.138,Trefoil
+cb507,N2XH Enhanced Flex,1c,16,9.1,0.199,Trefoil
+cb508,N2XH Enhanced Flex,1c,25,10.8,0.288,Trefoil
+cb509,N2XH Enhanced Flex,1c,35,11.7,0.381,Trefoil
+cb510,N2XH Enhanced Flex,1c,50,13.7,0.526,Trefoil
+cb511,N2XH Enhanced Flex,1c,70,15.8,0.72,Trefoil
+cb512,N2XH Enhanced Flex,1c,95,17.3,0.941,Trefoil
+cb513,N2XH Enhanced Flex,1c,120,19,1.183,Trefoil
+cb514,N2XH Enhanced Flex,1c,150,21.4,1.456,Trefoil
+cb515,N2XH Enhanced Flex,1c,185,24.2,1.807,Trefoil
+cb516,N2XH Enhanced Flex,1c,240,26.4,2.295,Trefoil
+cb517,N2XH Enhanced Flex,1c,300,29.7,2.846,Trefoil
+cb518,N2XH Enhanced Flex,1c,400,33.4,3.681,Trefoil
+cb519,N2XH Enhanced Flex,1c,500,37.3,4.72,Trefoil
+cb520,N2XH Enhanced Flex,1c,630,41.2,6.176,Trefoil
+cb521,N2XH Enhanced Flex,1c,1.5,5.4,0.066,Quadcleat
+cb522,N2XH Enhanced Flex,1c,2.5,5.8,0.077,Quadcleat
+cb523,N2XH Enhanced Flex,1c,4,6.3,0.074,Quadcleat
+cb524,N2XH Enhanced Flex,1c,6,6.8,0.095,Quadcleat
+cb525,N2XH Enhanced Flex,1c,10,7.9,0.138,Quadcleat
+cb526,N2XH Enhanced Flex,1c,16,9.1,0.199,Quadcleat
+cb527,N2XH Enhanced Flex,1c,25,10.8,0.288,Quadcleat
+cb528,N2XH Enhanced Flex,1c,35,11.7,0.381,Quadcleat
+cb529,N2XH Enhanced Flex,1c,50,13.7,0.526,Quadcleat
+cb530,N2XH Enhanced Flex,1c,70,15.8,0.72,Quadcleat
+cb531,N2XH Enhanced Flex,1c,95,17.3,0.941,Quadcleat
+cb532,N2XH Enhanced Flex,1c,120,19,1.183,Quadcleat
+cb533,N2XH Enhanced Flex,1c,150,21.4,1.456,Quadcleat
+cb534,N2XH Enhanced Flex,1c,185,24.2,1.807,Quadcleat
+cb535,N2XH Enhanced Flex,1c,240,26.4,2.295,Quadcleat
+cb536,N2XH Enhanced Flex,1c,300,29.7,2.846,Quadcleat
+cb537,N2XH Enhanced Flex,1c,400,33.4,3.681,Quadcleat
+cb538,N2XH Enhanced Flex,1c,500,37.3,4.72,Quadcleat
+cb539,N2XH Enhanced Flex,1c,630,41.2,6.176,Quadcleat
